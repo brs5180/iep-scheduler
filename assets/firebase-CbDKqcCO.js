@@ -1,4 +1,4 @@
-import{o as zc}from"./vendor-Dz1j01TE.js";const Gc=()=>{};var To={};/**
+import{o as zc}from"./react-core-DMUPfYi6.js";const Gc=()=>{};var To={};/**
  * @license
  * Copyright 2017 Google LLC
  *
